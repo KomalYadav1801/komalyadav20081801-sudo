@@ -28,10 +28,10 @@ Tools & Methodologies
 Finance Tracker (FinTrack) — A personal finance & expense tracker built with Angular 17 (standalone components + signals). Features role-guarded User/Admin areas, budget planning, savings goals, monthly reports, and Chart.js visualizations.
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komalyadav20081801-sudo&show_icons=true&theme=radical&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalyadav20081801-sudo&theme=radical&hide_border=true" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalyadav20081801-sudo&layout=compact&theme=radical&hide_border=true" width="60%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KomalYadav1801&show_icons=true&theme=radical&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalYadav1801&theme=radical&hide_border=true" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalYadav1801&layout=compact&theme=radical&hide_border=true" width="60%" /> </p>
 🌐 Connect With Me
-<p align="center"> <a href="mailto:komalyadav20081801@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/komal-yadav-b56956356/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> <i>⭐️ "Code is like humor. When you have to explain it, it's bad." — but I still write clean, well-documented code!</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=komalyadav20081801-sudo&color=blueviolet&style=flat" alt="Profile views" /> </p>
+<p align="center"> <a href="mailto:komalyadav20081801@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/KomalYadav1801/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <i>⭐️ "Code is like humor. When you have to explain it, it's bad." — but I still write clean, well-documented code!</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=KomalYadav1801&color=blueviolet&style=flat" alt="Profile views" /> </p>
 Content
 expense-tracker-blackbook-version.docx
 
@@ -84,6 +84,10 @@ tsconfig.json
 28 lines
 
 JSON
+
+<h1 align="center">Hi there, I'm Komal 👋</h1> <h3 align="center">A Passionate Full Stack Developer | Building Scalable & User-Centric Web Applications</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&wi
+
+PASTED
 
 <h1 align="center">Hi there, I'm Komal 👋</h1> <h3 align="center">A Passionate Full Stack Developer | Building Scalable & User-Centric Web Applications</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&wi
 
