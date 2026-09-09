@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Komal 👋</h1> 
-<h3 align="center">A Passionate Full Stack Developer | Building Scalable & User-Centric Web Applications</h3> 
+<h3 align="center">Full Stack Developer | Building Scalable & User-Centric Web Applications</h3> 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Turning+Ideas+Into+Reality;8.55+CGPA+@+YCMOU" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;BCA+Student+@+YCMOU+(8.55+CGPA)" alt="Typing SVG" /> 
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 **Full Stack Developer** skilled in building end-to-end web applications — from responsive front-ends to robust back-end systems.
-- ☕ **Enterprise Java Foundation:** Practical experience with Core/Advanced Java, JSP, Servlets, Hibernate, and **Spring Boot**.
-- 🎓 **Academic Standing:** Pursuing BCA at YCMOU with a **8.55 CGPA** / **8.64 SGPA**.
-- 🤝 **Agile & Collaborative:** Familiar with Git workflows, sprint planning, and writing clean, scalable code.
-- 📫 **Open to Opportunities:** Actively seeking Software Engineering Internships and open-source collaborations.
+- 💻 **Full Stack Developer** skilled in building end-to-end web applications — from responsive frontends to robust backend systems.
+- ☕ **Enterprise Java Focus:** Strong foundation in Core/Advanced Java, JSP, Servlets, Hibernate, and **Spring Boot**.
+- 🎓 **Academic Excellence:** Pursuing BCA at YCMOU with an **8.55 CGPA** / **8.64 SGPA**.
+- 🤝 **Agile & Collaborative:** Proficient in Git/GitHub workflows, clean code principles, and modular architecture.
+- 📫 **Open to Opportunities:** Actively seeking Software Development Engineer (SDE) internships and open-source contributions.
 
 ---
 
@@ -51,18 +51,15 @@
 ### 💼 Featured Project
 
 * **[FinTrack — Personal Finance Tracker](https://github.com/KomalYadav1801/finance-tracker)**
-  * Built using **Angular 17** with standalone components and Angular Signals for dynamic state handling.
-  * Features role-guarded User/Admin areas, budget planning, savings goals, monthly reports, and interactive **Chart.js** analytics.
+  * Built using **Angular 17** with standalone components and Angular Signals for reactive state management.
+  * Features role-guarded User/Admin navigation, budget planning, savings progress trackers, and dynamic **Chart.js** data analytics.
 
 ---
 
-
-
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KomalYadav1801&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KomalYadav1801&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalYadav1801&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -79,7 +76,7 @@
 </p>
 
 <p align="center">
-  <i>⭐️ "Code is like humor. When you have to explain it, it's bad." — but I still write clean, well-documented code!</i>
+  <i>⭐️ "Code is like humor. When you have to explain it, it's bad." — writing clean, documented code daily!</i>
 </p>
 
 <p align="center">
