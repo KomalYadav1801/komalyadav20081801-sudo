@@ -55,15 +55,13 @@
   * Features role-guarded User/Admin navigation, budget planning, savings progress trackers, and dynamic **Chart.js** data analytics.
 
 ---
-### 📊 GitHub Activity & Analytics
+
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <a href="https://github.com/KomalYadav1801">
-    <img src="https://github-readme-stats.vercel.app/api?username=KomalYadav1801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Komal's GitHub Stats" />
-  </a>
-  <a href="https://github.com/KomalYadav1801">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalYadav1801&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  </a>
+  <img src="https://img.shields.io/github/followers/KomalYadav1801?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" />
+  <img src="https://img.shields.io/badge/Public_Repos-2-2E9EF7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_%26_Documented-2E9EF7?style=for-the-badge&logo=github" />
 </p>
 
 ---
