@@ -55,11 +55,15 @@
   * Features role-guarded User/Admin navigation, budget planning, savings progress trackers, and dynamic **Chart.js** data analytics.
 
 ---
-
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalYadav1801&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+  <a href="https://github.com/KomalYadav1801">
+    <img src="https://github-readme-stats.vercel.app/api?username=KomalYadav1801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Komal's GitHub Stats" />
+  </a>
+  <a href="https://github.com/KomalYadav1801">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalYadav1801&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
 </p>
 
 ---
